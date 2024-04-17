@@ -20,7 +20,7 @@ The existing application package must feature:
 ### Basics
 
 - [x] Fork the project repository to your GitHub account.
-- [] Create a new branch called "workflow".
+- [x] Create a new branch called "workflow".
 - [] Create tests to cover the required test cases.
 
 ### Configuration 
