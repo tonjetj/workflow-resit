@@ -23,16 +23,16 @@ The existing application package must feature:
 - [x] Create a new branch called "workflow".
 - [] Create tests to cover the required test cases.
 
-### Configuration 
+### Configuration
 
 - [x] Configure the project to run ESlint on commit.
 - [x] Configure the project to run Prettier on commit.
-- [] Configure the project with Commit Hooks.
+- [x] Configure the project with Commit Hooks.
 - [] Configure the project with GitHub Actions for build/deploy if required.
 - [] Configure the project with Jest.
 - [] Configure the project with Cypress.
 
-### Project Changes 
+### Project Changes
 
 - [] Record bugs found during this process (steps above) in the Issues Tab.
 - [] README.md file is updated to include new configuration info and workflow status badges.
@@ -57,5 +57,3 @@ The existing application package must feature:
 - [] The user is able to log out with the log out button.
 
 #### Badges
-
-
