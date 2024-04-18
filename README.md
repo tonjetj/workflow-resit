@@ -25,7 +25,7 @@ The existing application package must feature:
 
 ### Configuration 
 
-- [] Configure the project to run ESlint on commit.
+- [x] Configure the project to run ESlint on commit.
 - [x] Configure the project to run Prettier on commit.
 - [] Configure the project with Commit Hooks.
 - [] Configure the project with GitHub Actions for build/deploy if required.
