@@ -29,7 +29,7 @@ The existing application package must feature:
 - [x] Configure the project to run Prettier on commit.
 - [x] Configure the project with Commit Hooks.
 - [] Configure the project with GitHub Actions for build/deploy if required.
-- [] Configure the project with Jest.
+- [x] Configure the project with Jest.
 - [] Configure the project with Cypress.
 
 ### Project Changes
