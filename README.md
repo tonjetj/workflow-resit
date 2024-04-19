@@ -58,4 +58,7 @@ The existing application package must feature:
 
 #### Badges
 
+(workflow branch)
 [![Deploy static content to Pages](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml/badge.svg?branch=workflow)](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml)
+(master branch)
+[![Deploy static content to Pages](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml)
