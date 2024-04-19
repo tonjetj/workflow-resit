@@ -35,7 +35,7 @@ The existing application package must feature:
 ### Project Changes
 
 - [x] Record bugs found during this process (steps above) in the Issues Tab.
-- [] README.md file is updated to include new configuration info and workflow status badges.
+- [x] README.md file is updated to include new configuration info and workflow status badges.
 - [] All known bugs have been communicated in the Issues tab.
 
 ### Delivery
@@ -57,3 +57,5 @@ The existing application package must feature:
 - [] The user is able to log out with the log out button.
 
 #### Badges
+
+[![Deploy static content to Pages](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml/badge.svg?branch=workflow)](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml)
