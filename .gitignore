@@ -2,3 +2,9 @@
 /dist
 .vscode/
 .eslintcache
+.cypress.config.js
+
+# Cypress generated files
+cypress/screenshots/
+cypress/fixtures/
+cypress/support/

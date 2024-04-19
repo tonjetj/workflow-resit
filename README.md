@@ -30,11 +30,11 @@ The existing application package must feature:
 - [x] Configure the project with Commit Hooks.
 - [] Configure the project with GitHub Actions for build/deploy if required.
 - [x] Configure the project with Jest.
-- [] Configure the project with Cypress.
+- [x] Configure the project with Cypress.
 
 ### Project Changes
 
-- [] Record bugs found during this process (steps above) in the Issues Tab.
+- [x] Record bugs found during this process (steps above) in the Issues Tab.
 - [] README.md file is updated to include new configuration info and workflow status badges.
 - [] All known bugs have been communicated in the Issues tab.
 
