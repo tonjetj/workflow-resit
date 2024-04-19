@@ -57,5 +57,3 @@ The existing application package must feature:
 - [] The user is able to log out with the log out button.
 
 #### Badges
-
-Testing something here.
