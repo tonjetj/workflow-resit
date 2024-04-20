@@ -61,3 +61,5 @@ The existing application package must feature:
 [![Deploy static content to Pages](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml/badge.svg?branch=workflow)](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml)
 
 [![Deploy static content to Pages](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml)
+
+[![CI](https://github.com/tonjetj/workflow-resit/actions/workflows/workflowtest.yml/badge.svg)](https://github.com/tonjetj/workflow-resit/actions/workflows/workflowtest.yml)
