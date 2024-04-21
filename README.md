@@ -48,7 +48,7 @@ The existing application package must feature:
 #### Unit Testing
 
 - [x] The login function stores a token in browser storage when a user is logged in with valid credentials.
-- [] The logout function clears the token from browser storage.
+- [x] The logout function clears the token from browser storage.
 
 #### E2E Testing
 
