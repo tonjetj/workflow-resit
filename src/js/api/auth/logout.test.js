@@ -38,6 +38,9 @@ describe("logout", () => {
   it("clears the stored token from the localStorage", async () => {
     localStorage.setItem("token", validCredentialsMock.accessToken);
     logout();
+
+    // Checks if there is any string data being retrieved in localStorage
+    expect(localStorage.getItem("token")).toEqual(null);
     // Checks if stored token is removed
     expect(localStorage.removeItem("token")).toEqual(undefined);
   });
