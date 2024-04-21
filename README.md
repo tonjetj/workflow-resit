@@ -20,42 +20,48 @@ The existing application package must feature:
 ### Basics
 
 - [x] Fork the project repository to your GitHub account.
-- [] Create a new branch called "workflow".
-- [] Create tests to cover the required test cases.
+- [x] Create a new branch called "workflow".
+- [x] Create tests to cover the required test cases.
 
-### Configuration 
+### Configuration
 
-- [] Configure the project to run ESlint on commit.
-- [] Configure the project to run Prettier on commit.
-- [] Configure the project with Commit Hooks.
-- [] Configure the project with GitHub Actions for build/deploy if required.
-- [] Configure the project with Jest.
-- [] Configure the project with Cypress.
+- [x] Configure the project to run ESlint on commit.
+- [x] Configure the project to run Prettier on commit.
+- [x] Configure the project with Commit Hooks.
+- [x] Configure the project with GitHub Actions for build/deploy if required.
+- [x] Configure the project with Jest.
+- [x] Configure the project with Cypress.
 
-### Project Changes 
+### Project Changes
 
-- [] Record bugs found during this process (steps above) in the Issues Tab.
-- [] README.md file is updated to include new configuration info and workflow status badges.
-- [] All known bugs have been communicated in the Issues tab.
+- [x] Record bugs found during this process (steps above) in the Issues Tab.
+- [x] README.md file is updated to include new configuration info and workflow status badges.
+- [x] All known bugs have been communicated in the Issues tab.
 
 ### Delivery
 
-- [] Create a pull request from workflow into the default branch.
-- [] Submit a link to the open pull request on Moodle.
+- [x] Create a pull request from workflow into the default branch.
+- [x] Submit a link to the open pull request on Moodle.
 
 ### Workflow Tests
 
 #### Unit Testing
 
-- [] The login function stores a token in browser storage when a user is logged in with valid credentials.
-- [] The logout function clear the token from browser storage.
+- [x] The login function stores a token in browser storage when a user is logged in with valid credentials.
+- [x] The logout function clears the token from browser storage.
 
 #### E2E Testing
 
-- [] The user can log in with valid credentials.
-- [] The user can't log in without valid credentials and is shown a message when log in fails.
-- [] The user is able to log out with the log out button.
+- [x] The user can log in with valid credentials.
+- [x] The user can't log in without valid credentials and is shown a message when log in fails.
+- [x] The user is able to log out with the log out button.
 
 #### Badges
 
+[![Deploy static content to Pages](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml/badge.svg?branch=workflow)](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml)
 
+[![Deploy static content to Pages](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/tonjetj/workflow-resit/actions/workflows/pages.yml)
+
+[![CI](https://github.com/tonjetj/workflow-resit/actions/workflows/workflowtest.yml/badge.svg)](https://github.com/tonjetj/workflow-resit/actions/workflows/workflowtest.yml)
+
+[![Automated Unit Testing](https://github.com/tonjetj/workflow-resit/actions/workflows/unit-test.yml/badge.svg)](https://github.com/tonjetj/workflow-resit/actions/workflows/unit-test.yml)
