@@ -21,7 +21,7 @@ The existing application package must feature:
 
 - [x] Fork the project repository to your GitHub account.
 - [x] Create a new branch called "workflow".
-- [] Create tests to cover the required test cases.
+- [x] Create tests to cover the required test cases.
 
 ### Configuration
 
@@ -52,9 +52,9 @@ The existing application package must feature:
 
 #### E2E Testing
 
-- [] The user can log in with valid credentials.
-- [] The user can't log in without valid credentials and is shown a message when log in fails.
-- [] The user is able to log out with the log out button.
+- [x] The user can log in with valid credentials.
+- [x] The user can't log in without valid credentials and is shown a message when log in fails.
+- [x] The user is able to log out with the log out button.
 
 #### Badges
 
